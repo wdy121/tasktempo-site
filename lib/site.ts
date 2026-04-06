@@ -1,8 +1,9 @@
 /** Replace with real URLs when ready. */
 export const siteLinks = {
-  download: "#download",
-  /** TODO: installer / store URL */
-  downloadFile: "#" as const,
+  download:
+    "https://github.com/wdy121/tasktempo-site/releases/download/1.0/TaskTempo.exe",
+  downloadFile:
+    "https://github.com/wdy121/tasktempo-site/releases/download/1.0/TaskTempo.exe" as const,
   /** TODO: GitHub Releases / newsletter / etc. */
   followUpdates: "#" as const,
   privacy: "#" as const,
